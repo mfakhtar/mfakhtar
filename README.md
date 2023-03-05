@@ -14,18 +14,7 @@ AWS
 VMware
 PowerShell
 GitHub Stats
-Mohd Fawaz Akhtar's GitHub stats
 
-Top Languages
-Top Langs
 
-Recent Activity
-<!--START_SECTION:activity-->
-[Your Recent Activity](Your Recent Activity Link)
-[Your Recent Activity](Your Recent Activity Link)
-[Your Recent Activity](Your Recent Activity Link)
-[Your Recent Activity](Your Recent Activity Link)
-[Your Recent Activity](Your Recent Activity Link)
-<!--END_SECTION:activity-->
 Let's Connect!
 LinkedIn
