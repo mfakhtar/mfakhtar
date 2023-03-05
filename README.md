@@ -25,17 +25,18 @@ I'm an IT Consultant with 7+ years of experience in infrastructure management, s
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfakhtar&layout=compact&theme=radical)](https://github.com/yourusername)
 
+<!---
+// ## Recent Activity
 
-## Recent Activity
-
-<!--START_SECTION:activity-->
+// <!--START_SECTION:activity
 1. [Your Recent Activity](Your Recent Activity Link)
 2. [Your Recent Activity](Your Recent Activity Link)
 3. [Your Recent Activity](Your Recent Activity Link)
 4. [Your Recent Activity](Your Recent Activity Link)
 5. [Your Recent Activity](Your Recent Activity Link)
-<!--END_SECTION:activity-->
+<!--END_SECTION:activity
+-->
 
 ## Let's Connect!
 
-[LinkedIn](www.linkedin.com/in/mohdfawaz/)
+[Fawaz LinkedIn](www.linkedin.com/in/mohdfawaz/)
