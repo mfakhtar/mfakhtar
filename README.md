@@ -12,7 +12,7 @@ I'm an IT Consultant with 7+ years of experience in infrastructure management, s
 
 ## Languages and Tools
 
-- ![t](https://imgur.com/a/FQ3UUDf) Terraform
+- Terraform
 - AWS
 - VMware
 - PowerShell
