@@ -19,11 +19,11 @@ I'm an IT Consultant with 7+ years of experience in infrastructure management, s
 
 ## GitHub Stats
 
-[![Mohd Fawaz Akhtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Mohd Fawaz Akhtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfakhtar&count_private=true&show_icons=true&theme=radical)](https://github.com/yourusername)
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfakhtar&layout=compact&theme=radical)](https://github.com/yourusername)
 
 
 ## Recent Activity
